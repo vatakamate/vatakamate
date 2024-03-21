@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vatakamate
-- 👀 I’m interested in middleware and backend
-- 🌱 I’m currently learning scala, playframework, mongodb, mysql, react, docker, kubernetes, jenkins
+- 👀 I’m interested in middleware and backend [scala, playframework, mongodb, mysql, react, docker, Jenkins, Nginx]
+- 🌱 I’m currently learning  kubernetes
 - 💞️ I’m looking to collaborate on scala language
 - 📫 How to reach me vatakamate@gmail.com
 - 😄 Pronouns: Community/Organsation
